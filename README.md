@@ -1,1 +1,1 @@
-# MusayiWebsite.github.io
+# musayi-app.github.io
